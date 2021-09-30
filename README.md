@@ -6,6 +6,8 @@ Welcome! Are you completely new to programming? If not then we presume you will 
 Installing
 Installing Python is generally easy, and nowadays many Linux and UNIX distributions include a recent Python. Even some Windows computers (notably those from HP) now come with Python already installed. If you do need to install Python and aren't confident about the task you can find a few notes on the BeginnersGuide/Download wiki page, but installation is unremarkable on most platformo
 
+You've submitted Update README.md to primecoderseries/Article
+Project not participating
 
 Learning
 Before getting started, you may want to find out which IDEs and text editors are tailored to make Python editing easy, browse the list of introductory books, or look at code samples that you might find helpful.
